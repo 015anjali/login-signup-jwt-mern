@@ -117,12 +117,6 @@ Feel free to fork this repository and submit pull requests for new features or b
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Author
 
 **Anjali Krishna**  
