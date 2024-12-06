@@ -1,4 +1,3 @@
-Sure! Here's the full README in a single text:
 
 ---
 
