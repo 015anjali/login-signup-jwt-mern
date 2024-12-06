@@ -108,6 +108,7 @@ By default, the frontend will run on `http://localhost:3000`.
 - **Express.js**: Backend framework for building RESTful APIs.
 - **Node.js**: JavaScript runtime environment.
 - **JWT**: Secure token-based authentication.
+- **Bcrypt hashing**: storing password in hashed form
 
 ---
 
