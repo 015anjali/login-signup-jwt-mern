@@ -3,7 +3,7 @@
 
 # Login-Signup JWT MERN Application
 
-This is a **Login and Signup application** built with the MERN stack (MongoDB, Express.js, React.js, and Node.js) that uses **JWT authentication** to securely handle user sessions. It provides a robust backend and a simple user interface for user authentication.
+This is a **Login and Signup application** built with the MERN stack (MongoDB, Express.js, and Node.js) that uses **JWT authentication** to securely handle user sessions. It provides a robust backend and a simple user interface for user authentication.
 
 ---
 
@@ -15,7 +15,6 @@ This is a **Login and Signup application** built with the MERN stack (MongoDB, E
 - Integration with MongoDB for user data storage.
 - RESTful API design.
 - Backend built with **Node.js** and **Express.js**.
-- Frontend built with **React.js** (if applicable, else mention client-side logic with vanilla JS).
 
 ---
 
@@ -107,7 +106,6 @@ By default, the frontend will run on `http://localhost:3000`.
 
 - **MongoDB**: Database for storing user data.
 - **Express.js**: Backend framework for building RESTful APIs.
-- **React.js**: Frontend library for user interfaces (if applicable).
 - **Node.js**: JavaScript runtime environment.
 - **JWT**: Secure token-based authentication.
 
